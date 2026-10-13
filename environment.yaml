@@ -1,0 +1,8 @@
+name: practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+prefix: C:\Users\rye_r\miniconda3\envs\practice
